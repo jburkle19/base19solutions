@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+
+<appSettings>
+
+  <add key="webpages:Version"               value="3.0.0.0" />
+  <add key="webpages:Enabled"               value="false" />
+  <add key="ClientValidationEnabled"        value="true" />
+  <add key="UnobtrusiveJavaScriptEnabled"   value="true" />
+
+  <add key="ErrorEmailAddress"              value="" />
+  <add key="EmailSubjectTitle"              value="" />
+
+  <!-- Mail Server Configuration -->
+  <add key="smtpFromName"                   value="" />
+  <add key="smtpFromEmail"                  value="" />
+  <add key="smtpUserName"                   value="" />
+  <add key="smtpPassword"                   value="" />
+  <add key="smtpHost"                       value="" />
+  <add key="smtpPort"                       value="" />
+  <add key="smtpTLS"                        value="" />
+  <!-- Mail Server Configuration -->
+
+</appSettings>
